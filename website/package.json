@@ -7,8 +7,8 @@
     "deploy": "yarn add-pages-on-site && docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.4.0",
-    "@docusaurus/preset-classic": "^2.4.0",
+    "@docusaurus/core": "^3.6.0",
+    "@docusaurus/preset-classic": "^3.6.0",
     "classnames": "^2.3.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
